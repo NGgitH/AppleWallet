@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JguO8RzLOV0hdfCtmCjlQYpkXsXyE/TiD0yEKsn7jiA=",
+  "Source": "AppleWallet",
+  "BasePath": "_content/AppleWallet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

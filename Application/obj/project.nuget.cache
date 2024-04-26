@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EVEzDTMBX1zsHdg0X5Vna7V18obD3IvhxrOUuKCfklp30hwJEDOuwfoLPqDkP1ZhDMK4hBwH926g0q/SLEYmgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicolas.gatti\\Desktop\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicolas.gatti\\.nuget\\packages\\dotnet-passbook\\2.0.4\\dotnet-passbook.2.0.4.nupkg.sha512",
+    "C:\\Users\\nicolas.gatti\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\nicolas.gatti\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\nicolas.gatti\\.nuget\\packages\\system.security.cryptography.pkcs\\4.5.2\\system.security.cryptography.pkcs.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}
